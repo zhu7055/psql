@@ -20,7 +20,7 @@ CREATE DATABASE dbname;
 ```
 ## DELETE DATABASE
 ```SQL
-  DROP DATABASE dbname;
+DROP DATABASE dbname;
 ```
 ## CONNECT DATABASE
 ```psql
