@@ -6,8 +6,8 @@
   \l
 ```
 ## Get instructions
-```
-/?
+```PSQL
+\?
 ```
 ## Lists table description
 
