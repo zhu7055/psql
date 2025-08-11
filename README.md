@@ -31,3 +31,7 @@ DROP DATABASE dbname;
 CREATE TABLE table_name(
 );
 ```
+## Insert data to table
+```SQL
+INSERT INTO table_name (column_1,column_2,column_3,column_4) values (value_1, value_2, value_3, value_4);
+```
