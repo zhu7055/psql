@@ -5,9 +5,13 @@
 ```PSQL
   \l
 ```
-## Get instructions
+## Get PSQL instructions
 ```PSQL
 \?
+```
+## Get SQL Command instructions
+```psql
+\h
 ```
 ## Lists table description
 
